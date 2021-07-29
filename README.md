@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @steven1096
+- 👀 I’m interested in Linux and Cloud (AWS). I am interested in developing and scripting in Python, BASH, Golang, and dablling in some Powershell lately
+- 🌱 AWS, the CDK (Infrastracture as Code) and Powershell. 
+- 💞️ I’m looking to collaborate on collaboration 
+- 📫 Email or slack is best
